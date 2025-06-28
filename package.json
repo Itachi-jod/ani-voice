@@ -1,0 +1,13 @@
+{
+  "name": "anime-tts",
+  "version": "1.0.0",
+  "main": "generateVoice.js",
+  "scripts": {
+    "start": "node generateVoice.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.3"
+  },
+  "license": "MIT"
+}
